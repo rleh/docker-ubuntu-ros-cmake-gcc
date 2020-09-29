@@ -1,3 +1,1 @@
-# docker-duckbrain-prerequisites
-
-A Docker image to build duckbrain software
+# Docker images to with ROS on Ubuntu
